@@ -148,6 +148,38 @@ Upload the PNG file to the GitHub repository (via drag-and-drop into the repo or
 
 Ensure the file path is correct so the link in README.md renders properly.
 
+Acceptance Criteria
+Acceptance Criteria are a set of predefined conditions that a software product must meet to be accepted by the user, customer, or other stakeholders. They define the boundaries of a user story or feature and ensure that all requirements are met before the work is considered complete.
+
+✅ Importance in Requirement Analysis
+Clarity: Clearly communicates what is expected for a feature to be considered done.
+
+Consistency: Ensures that developers, testers, and stakeholders have a shared understanding of the functionality.
+
+Quality Assurance: Helps QA teams write test cases and validate whether the feature meets business needs.
+
+Scope Control: Prevents scope creep by defining exactly what needs to be delivered.
+
+📌 Example: Acceptance Criteria for “Checkout Feature” in Booking Management System
+Feature: User completes the checkout process after selecting a booking.
+
+Acceptance Criteria:
+
+User must be logged in to access the checkout page.
+
+Booking summary should display the selected service, date, time, and total price.
+
+User must fill in all required billing information.
+
+System should validate payment details before submission.
+
+On successful payment, a confirmation page should be displayed with a unique booking reference.
+
+A confirmation email should be sent to the user’s registered email address.
+
+If payment fails, an error message should appear with retry options.
+
+
 
 
 
