@@ -98,5 +98,57 @@ The system should be accessible on both desktop and mobile devices.
 
 The interface must support multi-language functionality.
 
+Use Case Diagrams
+Use Case Diagrams are visual representations used in requirement analysis to show the interactions between users (actors) and the system. They help stakeholders understand the system’s functionality from a user perspective.
+
+🔍 Benefits of Use Case Diagrams
+Simplify complex requirements through visual representation.
+
+Help identify all the possible interactions users will have with the system.
+
+Serve as a reference during design, development, and testing.
+
+Promote clear communication between technical and non-technical stakeholders.
+
+🧾 Use Case Diagram for Booking Management System
+Below is a use case diagram showing the interactions between the system and its users:
+
+
+
+🧑‍🤝‍🧑 Actors:
+Customer – Can make, view, cancel, and manage bookings.
+
+Admin – Can approve, reject, and manage all bookings.
+
+System – Sends confirmations and notifications.
+
+📌 Use Cases:
+Make a booking
+
+View booking
+
+Cancel booking
+
+Modify booking
+
+Approve/Reject booking
+
+Send confirmation email
+
+Notify users
+
+✅ How to Create and Link the Diagram:
+Go to https://app.diagrams.net/ (Draw.io).
+
+Create the Use Case Diagram for the booking system.
+
+Export the diagram as a PNG file and name it: alx-booking-uc.png.
+
+Upload the PNG file to the GitHub repository (via drag-and-drop into the repo or through git).
+
+Ensure the file path is correct so the link in README.md renders properly.
+
+
+
 
 
