@@ -30,6 +30,37 @@ With well-analyzed requirements, teams can create realistic timelines, allocate 
 3. Enhances Product Quality and User Satisfaction
 When software is built based on thoroughly analyzed requirements, it is more likely to meet user needs and expectations. This leads to fewer bugs, better usability, and higher customer satisfaction.
 
-Would you like me to add visuals like a diagram of the SDLC with Requirement Analysis highlighted?
+Key Activities in Requirement Analysis
+Requirement Analysis involves a series of structured activities to ensure that software requirements are clearly understood, documented, and validated. Below are the five key activities:
 
-Would you like to follow up with examples of functional vs non-functional requirements or the steps in the requirement analysis process?
+Requirement Gathering
+
+Involves collecting information from stakeholders such as clients, end-users, and subject matter experts.
+
+Common methods include interviews, questionnaires, workshops, and studying existing systems.
+
+Requirement Elicitation
+
+Focuses on uncovering hidden needs and extracting detailed requirements from stakeholders.
+
+Techniques include brainstorming, use case analysis, role-playing, and observation.
+
+Requirement Documentation
+
+Converts gathered and elicited information into structured documents.
+
+Common documents include Software Requirements Specifications (SRS), user stories, and use cases.
+
+Requirement Analysis and Modeling
+
+Analyzes the documented requirements to detect inconsistencies, redundancies, or gaps.
+
+Uses modeling tools like flowcharts, data flow diagrams (DFD), and UML to visualize requirements.
+
+Requirement Validation
+
+Ensures the requirements are complete, feasible, and aligned with business goals.
+
+Involves stakeholder reviews, prototyping, walkthroughs, and formal inspections.
+
+
